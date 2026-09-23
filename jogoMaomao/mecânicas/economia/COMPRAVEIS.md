@@ -1,7 +1,0 @@
-
-####
-**CONSUMÍVEIS**
-
-- [[POCAO_VIDA]]
-- [[POCAO_RESISTÊNCIA]]
-- [[POCAO_VELOCIDADE]]
