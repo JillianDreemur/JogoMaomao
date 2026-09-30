@@ -1,4 +1,4 @@
-# Diários de uma Apotecária - A Praga de Sapos 🐸
+# Diários de uma Apotecária - A Praga de Sapos 🐸 VERSÃO 0.1
 
 Um charmoso jogo indie de ação com visual em 16 bits onde você tem uma única missão: purificar a Floresta e a Caverna Sagrada de uma infestação de sapos!
 
